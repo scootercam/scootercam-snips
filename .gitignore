@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editor files
+*.bbedit*
+*~
+.*.swp
+
+# WordPress
+*.log
